@@ -1,5 +1,4 @@
-# UTS_Mobile
-
+# UTS Pemrograman Mobile
 Nama : Rizal Zifan Prasetya
 
 NIM : 312310792
